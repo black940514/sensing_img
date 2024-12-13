@@ -1,4 +1,4 @@
-### Project
+# Project
 1. EO 촬영 위성영상 기반 지역(구름, 사막, 바다, 숲) 분류 - GIS(Geometric Information System) 활용
 2. 위성/드론/무인 항공기 영상 분류  -  항공/수중 드론
 3. 촬영 위성 종류(EO/IR/SAR) 분류  -  Palantir LLM 군사작전 의사결정을 위한 데이터
@@ -7,7 +7,7 @@
 
 
 
-# sensing_img
+### sensing_img
 
 1. 지구와 다른 행성의 표면을 관찰하고 분석
 2. 광학 위성 영상
