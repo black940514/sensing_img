@@ -45,3 +45,5 @@ Hyperspectral Imaging
 ### Resolution
 - Radiometric resolution
 - Spatial resolution
+- Spectral resolution
+- Temporal resolution
